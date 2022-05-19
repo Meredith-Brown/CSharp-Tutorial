@@ -1,0 +1,13 @@
+/Users/meredith/dev/C-SHARP-Tutorial/C-SHARP-Tutorial/bin/Debug/netcoreapp3.1/C-SHARP-Tutorial.deps.json
+/Users/meredith/dev/C-SHARP-Tutorial/C-SHARP-Tutorial/bin/Debug/netcoreapp3.1/C-SHARP-Tutorial.runtimeconfig.json
+/Users/meredith/dev/C-SHARP-Tutorial/C-SHARP-Tutorial/bin/Debug/netcoreapp3.1/C-SHARP-Tutorial.runtimeconfig.dev.json
+/Users/meredith/dev/C-SHARP-Tutorial/C-SHARP-Tutorial/bin/Debug/netcoreapp3.1/C-SHARP-Tutorial.dll
+/Users/meredith/dev/C-SHARP-Tutorial/C-SHARP-Tutorial/bin/Debug/netcoreapp3.1/C-SHARP-Tutorial.pdb
+/Users/meredith/dev/C-SHARP-Tutorial/C-SHARP-Tutorial/obj/Debug/netcoreapp3.1/C-SHARP-Tutorial.csproj.AssemblyReference.cache
+/Users/meredith/dev/C-SHARP-Tutorial/C-SHARP-Tutorial/obj/Debug/netcoreapp3.1/C-SHARP-Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meredith/dev/C-SHARP-Tutorial/C-SHARP-Tutorial/obj/Debug/netcoreapp3.1/C-SHARP-Tutorial.AssemblyInfoInputs.cache
+/Users/meredith/dev/C-SHARP-Tutorial/C-SHARP-Tutorial/obj/Debug/netcoreapp3.1/C-SHARP-Tutorial.AssemblyInfo.cs
+/Users/meredith/dev/C-SHARP-Tutorial/C-SHARP-Tutorial/obj/Debug/netcoreapp3.1/C-SHARP-Tutorial.csproj.CoreCompileInputs.cache
+/Users/meredith/dev/C-SHARP-Tutorial/C-SHARP-Tutorial/obj/Debug/netcoreapp3.1/C-SHARP-Tutorial.dll
+/Users/meredith/dev/C-SHARP-Tutorial/C-SHARP-Tutorial/obj/Debug/netcoreapp3.1/C-SHARP-Tutorial.pdb
+/Users/meredith/dev/C-SHARP-Tutorial/C-SHARP-Tutorial/obj/Debug/netcoreapp3.1/C-SHARP-Tutorial.genruntimeconfig.cache
