@@ -7,15 +7,7 @@ namespace C_SHARP_Tutorial
         static void Main(string[] args)
         {
             string phrase = "Giraffe Academy";
-            char grade = 'A';
-            int age = 30;
-            // float = least accurate
-            double gpa = 3.3; // in the middle
-            // decimal = most accurate
-            bool isMale = false;
-
-            Console.WriteLine(30); // 30 is a constant
-
+            Console.WriteLine(phrase.Substring(8, 3));
             Console.ReadLine();
         }
     }
@@ -36,3 +28,22 @@ namespace C_SHARP_Tutorial
 //Console.ReadLine();
 
 //==================================================
+
+//DATA TYPES:
+
+//string phrase = "Giraffe Academy";
+//char grade = 'A';
+//int age = 30;
+//// float = least accurate
+//double gpa = 3.3; // in the middle
+//                  // decimal = most accurate
+//bool isMale = false;
+
+//Console.WriteLine(30); // 30 is a constant
+
+//Console.ReadLine();
+
+//==================================================
+
+
+
